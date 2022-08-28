@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 359,
-    "timeWeek": 130,
+    "time": 104,
+    "timeDay": 178,
+    "timeWeek": 143,
     "timeMonth": 113,
-    "timeYear": 106,
-    "dailyMinutesDown": {
-      "2021-08-28": 17
-    }
+    "timeYear": 107,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 141,
-    "timeWeek": 308,
-    "timeMonth": 204,
+    "time": 244,
+    "timeDay": 135,
+    "timeWeek": 228,
+    "timeMonth": 202,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2022-06-12": 20
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 340,
-    "timeDay": 315,
-    "timeWeek": 231,
-    "timeMonth": 306,
+    "timeDay": 266,
+    "timeWeek": 254,
+    "timeMonth": 299,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2022-07-08": 501,
